@@ -1,0 +1,17 @@
+/* CSS Document */
+body, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ul, ol, li, fieldset, button, input, textarea, th, td {margin: 0;padding: 0;}
+body {font: 12px/1.6 Helvetica, "Microsoft YaHei", Tahoma, Arial, "\5b8b\4f53", sans-serif;color: #333;text-align: center;background-color: #000;}
+ul, ol, li {list-style: none;}
+a {text-decoration: none;color: #666;}
+a:hover {text-decoration: none;color: #333;}
+fieldset, img {border: none;}
+button, input, select, textarea {font-size: 100%;}
+table {border-collapse: collapse;border-spacing: 0;}
+h1, h2, h3 {font-size: 15px;}
+/*---基础样式标准---*/
+em {font-style: normal;}
+.clearfix {*zoom: 1;}
+.clearfix:after {display: block;clear: both;height: 0;content: "\0020"}
+.pic { padding-bottom: 50px;}
+.pic img.banner {width: 90%;max-width: 500px;margin: 30px auto 0 auto;}
+.pic .email a {display: inline-block;border: .75px solid #fff;padding: 10px 25px;color: #fff;font-size: 14px;letter-spacing: 1px;}
